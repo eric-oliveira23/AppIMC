@@ -1,0 +1,15 @@
+C:\Users\T-GAMER\source\repos\projectBO\projectBO\bin\Debug\netstandard2.0\projectBO.deps.json
+C:\Users\T-GAMER\source\repos\projectBO\projectBO\bin\Debug\netstandard2.0\projectBO.dll
+C:\Users\T-GAMER\source\repos\projectBO\projectBO\bin\Debug\netstandard2.0\ref\projectBO.dll
+C:\Users\T-GAMER\source\repos\projectBO\projectBO\bin\Debug\netstandard2.0\projectBO.pdb
+C:\Users\T-GAMER\source\repos\projectBO\projectBO\obj\Debug\netstandard2.0\projectBO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\T-GAMER\source\repos\projectBO\projectBO\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\T-GAMER\source\repos\projectBO\projectBO\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\T-GAMER\source\repos\projectBO\projectBO\obj\Debug\netstandard2.0\projectBO.AssemblyInfoInputs.cache
+C:\Users\T-GAMER\source\repos\projectBO\projectBO\obj\Debug\netstandard2.0\projectBO.AssemblyInfo.cs
+C:\Users\T-GAMER\source\repos\projectBO\projectBO\obj\Debug\netstandard2.0\projectBO.csproj.CoreCompileInputs.cache
+C:\Users\T-GAMER\source\repos\projectBO\projectBO\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\T-GAMER\source\repos\projectBO\projectBO\obj\Debug\netstandard2.0\projectBO.dll
+C:\Users\T-GAMER\source\repos\projectBO\projectBO\obj\Debug\netstandard2.0\ref\projectBO.dll
+C:\Users\T-GAMER\source\repos\projectBO\projectBO\obj\Debug\netstandard2.0\projectBO.pdb
+C:\Users\T-GAMER\source\repos\projectBO\projectBO\obj\Debug\netstandard2.0\projectBO.csproj.AssemblyReference.cache
